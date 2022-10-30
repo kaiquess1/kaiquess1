@@ -1,5 +1,5 @@
 
-## Bem vindo ao meu GitHub
+## Seja bem-vindo ao meu GitHub :)
 ### Me chamo Kaique
 
 - 🌵 Sou baiano
