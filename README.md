@@ -1,5 +1,7 @@
-## Olá, me chamo Kaique
-### Bem vindo ao meu GitHub
+
+## Bem vindo ao meu GitHub
+### Me chamo Kaique
+
 - 🌵 Sou baiano
 - 👩‍💻 Atualmente trabalho e estudo Ciência de Dados
 - 💻 Participante da Comunidade Data Science
