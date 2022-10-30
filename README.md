@@ -1,4 +1,4 @@
-### Olá, me chamo Kaique
+## Olá, me chamo Kaique
 ### Bem vindo ao meu GitHub
 - 🌵 Sou baiano
 - 👩‍💻 Atualmente trabalho e estudo Ciência de Dados
