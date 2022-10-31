@@ -2,7 +2,7 @@
 ## Seja bem-vindo ao meu GitHub
 ### Me chamo Kaique
 
-- 🎓 Atualmente estudo Ciência de Dados
+- 📚 Atualmente estudo Ciência de Dados
 - 📊 Participante da Comunidade Data Science
 - 🧠 Em aprendizado e aprimoramento constante de minhas habilidades
 - 💬 Acredito que umas das formas de aprender é compartilhando conhecimento
